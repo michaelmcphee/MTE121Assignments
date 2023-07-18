@@ -1,0 +1,5 @@
+Weekday 1 6
+Weekday 1 9
+Weekday 0 9
+Friday 1 6
+Sunday 1 6
